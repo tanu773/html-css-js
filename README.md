@@ -1,9 +1,13 @@
-# Simple HTML-CSS-JS Project
+# My Simple Webpage
 
-This project is a simple webpage created using HTML, CSS, and JavaScript. It includes buttons that log messages to the browser console when clicked.
+This is a basic webpage made with HTML, CSS, and JavaScript.
 
-## Installation
+## How to use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/tanu773/html-css-js.git
+1. Open `index.html` in your browser.
+2. Click the buttons to see messages in the console.
+
+## Features
+
+- Buttons that show messages in the console
+- Simple design
