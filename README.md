@@ -1,3 +1,7 @@
+## About Me
+
+Hi, I'm Tanu, a student learning Git!
+
 # My Simple Webpage
 
 This is a basic webpage made with HTML, CSS, and JavaScript.
